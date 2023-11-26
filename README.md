@@ -23,6 +23,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-Developer Rahul
+Developer Razz
 
 
